@@ -7,4 +7,4 @@ It has two or more independent variables (X) and one dependent variable (y), whe
 
 The main advantage of MLR is that it has the ability to determine the relative infuence of on eor more predictors to the target variable.
 Other data that can be used is othe rsoil nutrient parameters such as Organic Carbon(OC), Potassium(K) and Phosphorus (P) can be used to improve accuracy.
-Other factors such as parameter tuning and choosing variables of high significance can be used to improve overall perfomance of the model
+Other factors such as algorithm tuning and choosing variables of high significance can be used to improve overall perfomance of the model
